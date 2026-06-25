@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Ebbe';
+    src: url('Ebbe-Bold.eot');
+    src: url('Ebbe-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Ebbe-Bold.woff2') format('woff2'),
+        url('Ebbe-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebbe';
+    src: url('Ebbe-Black.eot');
+    src: url('Ebbe-Black.eot?#iefix') format('embedded-opentype'),
+        url('Ebbe-Black.woff2') format('woff2'),
+        url('Ebbe-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebbe';
+    src: url('Ebbe-Light.eot');
+    src: url('Ebbe-Light.eot?#iefix') format('embedded-opentype'),
+        url('Ebbe-Light.woff2') format('woff2'),
+        url('Ebbe-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebbe';
+    src: url('Ebbe-Thin.eot');
+    src: url('Ebbe-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Ebbe-Thin.woff2') format('woff2'),
+        url('Ebbe-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ebbe';
+    src: url('Ebbe.eot');
+    src: url('Ebbe.eot?#iefix') format('embedded-opentype'),
+        url('Ebbe.woff2') format('woff2'),
+        url('Ebbe.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
